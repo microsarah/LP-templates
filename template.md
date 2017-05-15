@@ -6,6 +6,7 @@
 All required fields are marked with * .
 
 ### Lesson + Instructor Info
+> If there is no instructor, remove the row.
 
 |                        |                                               |
 | ---------------------- | --------------------------------------------- |
@@ -14,7 +15,7 @@ All required fields are marked with * .
 | _Instructor Image_     | ![Instructor Name](assets/images/picture.jpg) |           
 
 ### SME Info
-> If there is no SME, leave this info blank. If there is an SME, all fields are recommended but not required.
+> If there is no SME, remove this entire section. If there is an SME, all fields are recommended but not required. Remove any rows that do not have content.
 
 |                      |                                         |
 | -------------------- | --------------------------------------- |
@@ -27,7 +28,7 @@ All required fields are marked with * .
 ### Summary Messages
 
 ##### Intro Screen
-> Not Required.
+> If there is no Intro content, remove this entire section. If there is Intro content, all fields are recommended but not required. Remove any rows that do not have content.
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
@@ -43,7 +44,7 @@ All required fields are marked with * .
 
 
 ##### Outro Screen
-> Not required.
+> If there is no Outro content, remove this entire section. If there is Outro content, all fields are recommended but not required. Remove any rows that do not have content.
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
@@ -52,17 +53,15 @@ All required fields are marked with * .
 
 
 ##### References & Next Steps
-> Not required.
+> If there are no References & Next Steps, remove this entire section.
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
 | _Further Study_         | Lorem Ipsum...                                       |
 
-
-
 ---
 
-##### Slideshow
+### Slideshow
 > Text Only; slide title not required.
 
 _Slide Title_
@@ -95,16 +94,12 @@ More content lorem ipsum...
 
 ---
 
-> Video; slide title not required.
+> Video; title not required.
 
-_Slide Title_
-
-Slide Title
+_Video Title_: Title
 
 
-_Video Content*_
-
-https://generalassembly.wistia.com/medias/xnca3gllf5
+_Video Link*_: https://generalassembly.wistia.com/medias/xnca3gllf5
 
 
 _Transcript_
@@ -114,43 +109,29 @@ Video transcript goes here
 ---
 
 > Knowledge Check | Open-Ended; description not required.
+> Link to any images as noted in Text and Image Slide.
 
-_Description_
+_Description_:  Instructions and/or context for the prompt goes here.
 
-Instructions and/or context for the prompt goes here.
+_Prompt*_:  Question goes here.
 
-_Prompt*_
-
-Question goes here.
-
-![Image Title](assets/images/picture.jpg)
-
-_Explanation*_
-
-Response goes here.
+_Explanation*_:  Response goes here.
 
 ---
 
 > Knowledge Check | Multiple Choice; description not required.
+> Link to any images as noted in Text and Image Slide.
 > Correct answer marked with *
 
-_Description_
+_Description_:  Instructions and/or context for the prompt goes here.
 
-Instructions and/or context for the prompt goes here.
+_Prompt*_:  Question goes here.
 
-_Prompt*_
-
-Question goes here.
-
-![Image Title](assets/images/picture.jpg)
-
-_Choices*_
+_Choices:*_
 
 - Answer 1
 - Answer 2
 * Answer 3
 - Answer 4
 
-_Explanation*_
-
-Response for correct answer goes here.
+_Explanation*_:  Response for correct answer goes here.

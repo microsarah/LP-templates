@@ -3,8 +3,6 @@
 
 ---
 
-All required fields are marked with * .
-
 ### Lesson + Instructor Info
 
 |                         |                                           |
@@ -15,26 +13,15 @@ All required fields are marked with * .
 
 
 ### SME Info
-> If there is no SME, leave this info blank. If there is an SME, all fields are recommended but not required.
 
 |                         |                                         |
 | ----------------------- | --------------------------------------- |
 | _Portfolio/LinkedIn_    | http://saraheholden.com/ |
 | _Name_                  | Sarah Holden |
 | _Title_                 | Web Developer & Web Designer |
-| _SME Image_             | |
 
 
 ### Summary Messages
-
-##### Intro Screen
-> Not Required.
-
-|                         |                                                      |
-| ----------------------- | ---------------------------------------------------- |
-| _Intro Video Link       | |
-| _Intro Message_         | |
-
 
 ##### Learning Objectives*
 
@@ -46,27 +33,9 @@ All required fields are marked with * .
 * Understand the basic HTML boilerplate, why it’s necessary, and how to apply it
 * Write HTML that gets rendered as a document in the browser
 
-
-##### Outro Screen
-> Not Required.
-
-|                         |                                                      |
-| ----------------------- | ---------------------------------------------------- |
-| _Outro Video Link       | |
-| _Outro Message_         | |
-
-
-##### References & Next Steps
-> Not Required.
-
-|                         |                                                      |
-| ----------------------- | ---------------------------------------------------- |
-| _Further Study_         | |
-
-
 ---
 
-##### Slideshow
+### Slideshow
 
 Okay. Now that we know how HTML and CSS fit into the web development ecosystem and have learned how to create a basic project with an HTML file, let's dig in a little bit more.
 
@@ -112,9 +81,11 @@ After we've identified the role a piece of content plays on our site, we can the
 
 ---
 
-**Video Title:** HTML Elements
+_Video Title_:  HTML Elements
 
-**Location:** [Video Script](videos/scripts/html-elements.md)
+_Video Content*_:  Video in Production
+
+_Transcript_:  [Video Script](videos/scripts/html-elements.md)
 
 ---
 
@@ -446,9 +417,11 @@ But we're missing something! We have surrounded the content we want to turn into
 
 What's an attribute? Watch this video to find out:
 
-Video: HTML Attributes
+_Video Title_:  HTML Attributes
 
-Location: [Video Script](https://docs.google.com/document/d/1vbFrlgv98DeSsoJg3-4d9qnKMo5yPYZdrLGn-xGx_JE/edit)
+_Video Content*_:  Video in Production
+
+_Transcript_:  [Video Script](https://docs.google.com/document/d/1vbFrlgv98DeSsoJg3-4d9qnKMo5yPYZdrLGn-xGx_JE/edit)
 
 
 ---
