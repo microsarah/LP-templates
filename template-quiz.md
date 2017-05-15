@@ -40,9 +40,7 @@ _Intro Message_:  Lorem Ipsum...
 
 ##### Learning Objectives*
 
-- Topic 1
-- Topic 2
-- Topic 3
+* Test Your Knowledge!
 
 
 ##### Outro Screen
@@ -61,38 +59,6 @@ _Further Study_:  Lorem Ipsum...
 ---
 
 ### Slideshow
-> Text Only; slide title not required.
-
-_Slide Title_:  Title
-
-_Slide Content_:  Lorem ipsum...
-
----
-
-> Text and Image; slide title not required.
-
-_Slide Title_:  Title
-
-_Slide Content_:  Lorem ipsum...
-
-![Image Title](assets/images/picture.jpg)
-
-More content lorem ipsum...
-
-
----
-
-> Video; title not required.
-
-_Video Title_: Title
-
-_Video Link*_: https://generalassembly.wistia.com/medias/xnca3gllf5
-
-_Transcript_:
-
-Video transcript goes here
-
----
 
 > Knowledge Check | Open-Ended; description not required.
 > Link to any images as noted in Text and Image Slide.
@@ -115,9 +81,9 @@ _Prompt*_:  Question goes here.
 
 _Choices:*_
 
-- Answer 1
-- Answer 2
-* Answer 3
-- Answer 4
+1. Answer 1
+2. Answer 2
+3. Answer 3 *
+4. Answer 4
 
 _Explanation*_:  Response for correct answer goes here.
