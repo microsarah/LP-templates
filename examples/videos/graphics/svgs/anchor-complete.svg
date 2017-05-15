@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="CircularStd-Book, Circular Std" font-size="40" font-weight="300" letter-spacing=".521">
+      <tspan x="68.666" y="113" fill="#BCBCBC">&lt;a </tspan> <tspan x="120.428" y="113" fill="#FAD228">href</tspan> <tspan x="194.872" y="113" fill="#BCBCBC">=&quot;</tspan> <tspan x="234.593" y="113" fill="#51C1BC">https://www.google.com </tspan> <tspan x="705.053" y="113" fill="#BCBCBC">&quot;&gt;</tspan>
+    </text>
+    <text fill="#51C1BC" font-family="CircularStd-Book, Circular Std" font-size="21" font-weight="300" letter-spacing=".547">
+      <tspan x="449.716" y="41">url</tspan>
+    </text>
+    <path stroke="#979797"/>
+    <polyline stroke="#51C1BC" stroke-width="2.5" points="234 57.013 234 73 692 73 692 57" transform="matrix(1 0 0 -1 0 130)"/>
+    <text fill="#BCBCBC" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="344.455" y="173">opening tag</tspan>
+    </text>
+    <polyline stroke="#BCBCBC" stroke-width="2.5" points="71 132.013 71 148 730 148 730 132"/>
+  </g>
+</svg>

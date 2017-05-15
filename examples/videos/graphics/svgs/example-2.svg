@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="CircularStd-Book, Circular Std" font-size="40" font-weight="300" letter-spacing=".521">
+      <tspan x="241.933" y="110" fill="#51C1BC">&lt;h1&gt;</tspan> <tspan x="320.377" y="110" fill="#BCBCBC">content</tspan> <tspan x="462.743" y="110" fill="#51C1BC">&lt;/h1&gt;</tspan>
+    </text>
+    <path stroke="#979797"/>
+  </g>
+</svg>

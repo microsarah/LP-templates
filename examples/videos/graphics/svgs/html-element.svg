@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="CircularStd-Book, Circular Std" font-size="40" font-weight="300" letter-spacing=".521">
+      <tspan x="98" y="116" fill="#51C1BC">&lt;tag name&gt; </tspan> <tspan x="319.889" y="116" fill="#BCBCBC">content</tspan> <tspan x="462.255" y="116" fill="#FAD228"> </tspan> <tspan x="472.776" y="116" fill="#51C1BC">&lt;/tag name&gt;</tspan>
+    </text>
+    <text fill="#51C1BC" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="146.455" y="52">opening tag</tspan>
+    </text>
+    <text fill="#FAD228" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="360.137" y="173">element</tspan>
+    </text>
+    <text fill="#51C1BC" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="535.065" y="52">closing tag</tspan>
+    </text>
+    <path stroke="#979797"/>
+    <polyline stroke="#51C1BC" stroke-width="2.5" points="101 63.013 101 79 304.34 79 304.34 63" transform="matrix(1 0 0 -1 0 142)"/>
+    <polyline stroke="#51C1BC" stroke-width="2.5" points="476 63.013 476 79 699.34 79 699.34 63" transform="matrix(1 0 0 -1 0 142)"/>
+    <polyline stroke="#FAD228" stroke-width="2.5" points="101 131.013 101 147 699 147 699 131"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="CircularStd-Book, Circular Std" font-size="40" font-weight="300" letter-spacing=".521">
+      <tspan x="98" y="106" fill="#51C1BC">&lt;tag name&gt; </tspan> <tspan x="319.889" y="106" fill="#BCBCBC">content</tspan> <tspan x="462.255" y="106" fill="#FAD228"> </tspan> <tspan x="472.776" y="106" fill="#51C1BC">&lt;/tag name&gt;</tspan>
+    </text>
+    <text fill="#FAD228" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="360.137" y="163">element</tspan>
+    </text>
+    <path stroke="#979797"/>
+    <polyline stroke="#FAD228" stroke-width="2.5" points="101 121.013 101 137 699 137 699 121"/>
+  </g>
+</svg>

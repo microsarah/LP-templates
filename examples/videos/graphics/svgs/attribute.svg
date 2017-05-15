@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="CircularStd-Book, Circular Std" font-size="40" font-weight="300" letter-spacing=".521">
+      <tspan x="161.49" y="113" fill="#BCBCBC">&lt;tag name </tspan> <tspan x="363.579" y="113" fill="#FAD228">name</tspan> <tspan x="465.022" y="113" fill="#BCBCBC">=&quot;</tspan> <tspan x="505.144" y="113" fill="#51C1BC">value</tspan> <tspan x="602.228" y="113" fill="#BCBCBC">&quot;&gt;</tspan>
+    </text>
+    <text fill="#EC9CB6" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="448.266" y="44">attribute</tspan>
+    </text>
+    <text fill="#BCBCBC" font-family="CircularStd-Book, Circular Std" font-size="20" font-weight="300" letter-spacing=".521">
+      <tspan x="343.455" y="165">opening tag</tspan>
+    </text>
+    <path stroke="#979797"/>
+    <polyline stroke="#EC9CB6" stroke-width="2.5" points="363 57.013 363 73 615 73 615 57" transform="matrix(1 0 0 -1 0 130)"/>
+    <polyline stroke="#BCBCBC" stroke-width="2.5" points="162 124.013 162 140 637 140 637 124"/>
+  </g>
+</svg>

@@ -7,33 +7,31 @@ All required fields are marked with * .
 
 ### Lesson + Instructor Info
 
-|                         |                                           |
-| ----------------------- | ----------------------------------------- |
-| _Lesson Title_*         | Name of Lesson                            |
-| _Duration* (minutes)_   | xx                                        |
-| _Instructor Image_      | assets/unit-xx/image.jpg                  |
-
+|                        |                                               |
+| ---------------------- | --------------------------------------------- |
+| _Lesson Title_*        | Name of Lesson                                |
+| _Duration* (minutes)_  | xx                                            |
+| _Instructor Image_     | ![Instructor Name](assets/images/picture.jpg) |           
 
 ### SME Info
 > If there is no SME, leave this info blank. If there is an SME, all fields are recommended but not required.
 
-|                         |                                         |
-| ----------------------- | --------------------------------------- |
-| _Portfolio/LinkedIn_    | http://linkedin.com/person              |
-| _Name_                  | Jill Doe                                |
-| _Title_                 | CEO                                     |
-| _SME Image_             | assets/unit-xx/image.jpg                |
+|                      |                                         |
+| -------------------- | --------------------------------------- |
+| _Portfolio/LinkedIn_ | http://linkedin.com/person              |
+| _Name_               | Jill Doe                                |
+| _Title_              | CEO                                     |
+| _SME Image_          | ![SME Name](assets/images/picture.jpg)  |   
 
 
 ### Summary Messages
 
 ##### Intro Screen
-> If there is no intro video, leave the info blank. If there is an intro video, the provider and link are required.
+> Not Required.
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
-| _Intro Video Provider_  | wistia                                               |
-| _Intro Video Link       | https://generalassembly.wistia.com/medias/xnca3gllf5 |
+| _Intro Video Link_      | https://generalassembly.wistia.com/medias/xnca3gllf5 |
 | _Intro Message_         | Lorem Ipsum...                                       |
 
 
@@ -45,16 +43,16 @@ All required fields are marked with * .
 
 
 ##### Outro Screen
-> If there is no outro video, leave the info blank. If there is an outro video, the provider and link are required.
+> Not required.
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
-| _Outro Video Provider_  | wistia                                               |
-| _Outro Video Link       | https://generalassembly.wistia.com/medias/xnca3gllf5 |
+| _Outro Video Link_      | https://generalassembly.wistia.com/medias/xnca3gllf5 |
 | _Outro Message_         | Lorem Ipsum...                                       |
 
 
 ##### References & Next Steps
+> Not required.
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
@@ -65,7 +63,6 @@ All required fields are marked with * .
 ---
 
 ##### Slideshow
-
 > Text Only; slide title not required.
 
 _Slide Title_
@@ -90,9 +87,7 @@ _Slide Content_
 
 Lorem ipsum...
 
-|	Image Title | Image Path*             |
-| ----------- | ----------------------- |
-|             | assets/unit-x/image.jpg |
+![Image Title](assets/images/picture.jpg)
 
 
 More content lorem ipsum...
@@ -109,10 +104,7 @@ Slide Title
 
 _Video Content*_
 
-|	         |                                                      |
-| -------- | ---------------------------------------------------- |
-|	Provider |  wistia                                              |
-| Link     | https://generalassembly.wistia.com/medias/xnca3gllf5 |
+https://generalassembly.wistia.com/medias/xnca3gllf5
 
 
 _Transcript_
@@ -131,9 +123,7 @@ _Prompt*_
 
 Question goes here.
 
-|	Image Title | Image Path*             |
-| ----------- | ----------------------- |
-|             | assets/unit-x/image.jpg |
+![Image Title](assets/images/picture.jpg)
 
 _Explanation*_
 
@@ -152,9 +142,7 @@ _Prompt*_
 
 Question goes here.
 
-|	Image Title | Image Path*             |
-| ----------- | ----------------------- |
-|             | assets/unit-x/image.jpg |
+![Image Title](assets/images/picture.jpg)
 
 _Choices*_
 
