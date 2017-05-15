@@ -102,11 +102,17 @@ More content lorem ipsum...
 
 > Video
 
+_Slide Title_
+
 Slide Title
 
-|	Provider*   |  Link*                                               |
-| ----------- | ---------------------------------------------------- |
-| wistia      | https://generalassembly.wistia.com/medias/xnca3gllf5 |
+
+_Video Content*_
+
+|	         |                                                      |
+| -------- | ---------------------------------------------------- |
+|	Provider |  wistia                                              |
+| Link     | https://generalassembly.wistia.com/medias/xnca3gllf5 |
 
 
 _Transcript_
@@ -121,9 +127,9 @@ _Prompt*_
 
 Question goes here.
 
-|	Image(s)                |
-| ----------------------- |
-| assets/unit-x/image.jpg |
+|	Image Title | Image Path*             |
+| ----------- | ----------------------- |
+|             | assets/unit-x/image.jpg |
 
 _Explanation*_
 
@@ -138,9 +144,9 @@ _Prompt*_
 
 Question goes here.
 
-|	Image(s)                |
-| ----------------------- |
-| assets/unit-x/image.jpg |
+|	Image Title | Image Path*             |
+| ----------- | ----------------------- |
+|             | assets/unit-x/image.jpg |
 
 _Choices*_
 

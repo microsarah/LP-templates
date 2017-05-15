@@ -1,5 +1,5 @@
-###### Course Name
-# Lesson Name
+###### HCD v2.0
+# Lesson 1: HTML Basics
 
 ---
 
@@ -9,9 +9,9 @@ All required fields are marked with * .
 
 |                         |                                           |
 | ----------------------- | ----------------------------------------- |
-| _Lesson Title_*         | Name of Lesson                            |
-| _Duration* (minutes)_   | xx                                        |
-| _Instructor Image_      | assets/unit-xx/image.jpg                  |
+| _Lesson Title_*         | Lesson 1: HTML Basics |
+| _Duration* (minutes)_   | 20 |
+| _Instructor Image_      | |
 
 
 ### SME Info
@@ -19,10 +19,10 @@ All required fields are marked with * .
 
 |                         |                                         |
 | ----------------------- | --------------------------------------- |
-| _Portfolio/LinkedIn_    | http://linkedin.com/person              |
-| _Name_                  | Jill Doe                                |
-| _Title_                 | CEO                                     |
-| _SME Image_             | assets/unit-xx/image.jpg                |
+| _Portfolio/LinkedIn_    | |
+| _Name_                  | Sarah Holden |
+| _Title_                 | Web Developer |
+| _SME Image_             | |
 
 
 ### Summary Messages
@@ -32,16 +32,20 @@ All required fields are marked with * .
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
-| _Intro Video Provider_  | wistia                                               |
-| _Intro Video Link       | https://generalassembly.wistia.com/medias/xnca3gllf5 |
-| _Intro Message_         | Lorem Ipsum...                                       |
+| _Intro Video Provider_  | |
+| _Intro Video Link       | |
+| _Intro Message_         | |
 
 
 ##### Learning Objectives*
 
-- Topic 1
-- Topic 2
-- Topic 3
+* Apply markup to existing content using HTML content tags
+* Demonstrate understanding of tags, their components and how to use them
+* Demonstrate understanding of HTML Formatting
+* Use HTML5 content tags to add content to a webpage: h1-h6, p, a, ul/ol
+* Describe how attributes relate to elements
+* Understand the basic HTML boilerplate, why it’s necessary, and how to apply it
+* Write HTML that gets rendered as a document in the browser
 
 
 ##### Outro Screen
@@ -49,16 +53,18 @@ All required fields are marked with * .
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
-| _Outro Video Provider_  | wistia                                               |
-| _Outro Video Link       | https://generalassembly.wistia.com/medias/xnca3gllf5 |
-| _Outro Message_         | Lorem Ipsum...                                       |
+| _Outro Video Provider_  | |
+| _Outro Video Link       | |
+| _Outro Message_         | |
 
 
 ##### References & Next Steps
+> If there is no content for this section, leave the info blank.
+
 
 |                         |                                                      |
 | ----------------------- | ---------------------------------------------------- |
-| _Further Study_         | Lorem Ipsum...                                       |
+| _Further Study_         | |
 
 
 
@@ -73,9 +79,9 @@ _Slide Title_
 Slide Title
 
 
-_Slide Content_
+_Slide Content*_
 
-Lorem ipsum...
+Okay. Now that we know how HTML and CSS fit into the web development ecosystem and have learned how to create a basic project with an HTML file, let's dig in a little bit more.
 
 ---
 
@@ -86,7 +92,7 @@ _Slide Title_
 Slide Title
 
 
-_Slide Content_
+_Slide Content*_
 
 Lorem ipsum...
 
@@ -102,11 +108,15 @@ More content lorem ipsum...
 
 > Video
 
-Slide Title
+_Slide Title_
 
-|	Provider*   |  Link*                                               |
+
+_Video Content_
+
+|	            |                                                      |
 | ----------- | ---------------------------------------------------- |
-| wistia      | https://generalassembly.wistia.com/medias/xnca3gllf5 |
+|	Provider*   |  wistia                                              |
+| Link*       | https://generalassembly.wistia.com/medias/xnca3gllf5 |
 
 
 _Transcript_
