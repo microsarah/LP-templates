@@ -66,7 +66,7 @@ All required fields are marked with * .
 
 ##### Slideshow
 
-> Text Only
+> Text Only; slide title not required.
 
 _Slide Title_
 
@@ -79,7 +79,7 @@ Lorem ipsum...
 
 ---
 
-> Text and Image
+> Text and Image; slide title not required.
 
 _Slide Title_
 
@@ -100,7 +100,7 @@ More content lorem ipsum...
 
 ---
 
-> Video
+> Video; slide title not required.
 
 _Slide Title_
 
@@ -121,7 +121,11 @@ Video transcript goes here
 
 ---
 
-> Knowledge Check | Open-Ended
+> Knowledge Check | Open-Ended; description not required.
+
+_Description_
+
+Instructions and/or context for the prompt goes here.
 
 _Prompt*_
 
@@ -137,8 +141,12 @@ Response goes here.
 
 ---
 
-> Knowledge Check | Multiple Choice
-Correct answer marked with *
+> Knowledge Check | Multiple Choice; description not required.
+> Correct answer marked with *
+
+_Description_
+
+Instructions and/or context for the prompt goes here.
 
 _Prompt*_
 
