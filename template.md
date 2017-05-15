@@ -8,21 +8,24 @@ All required fields are marked with * .
 ### Lesson + Instructor Info
 > If there is no instructor, remove the row.
 
-|                        |                                               |
-| ---------------------- | --------------------------------------------- |
-| _Lesson Title_*        | Name of Lesson                                |
-| _Duration* (minutes)_  | xx                                            |
-| _Instructor Image_     | ![Instructor Name](assets/images/picture.jpg) |           
+_Lesson Title_*:   Name of Lesson
+
+_Duration* (minutes)_:  xx
+
+_Instructor Image_ :  ![Instructor Name](assets/images/picture.jpg)
+
+
 
 ### SME Info
 > If there is no SME, remove this entire section. If there is an SME, all fields are recommended but not required. Remove any rows that do not have content.
 
-|                      |                                         |
-| -------------------- | --------------------------------------- |
-| _Portfolio/LinkedIn_ | http://linkedin.com/person              |
-| _Name_               | Jill Doe                                |
-| _Title_              | CEO                                     |
-| _SME Image_          | ![SME Name](assets/images/picture.jpg)  |   
+_Portfolio/LinkedIn_:  http://linkedin.com/person
+
+_Name_:  Jill Doe
+
+_Title_:  CEO
+
+_SME Image_:  ![SME Name](assets/images/picture.jpg)  
 
 
 ### Summary Messages
@@ -30,10 +33,9 @@ All required fields are marked with * .
 ##### Intro Screen
 > If there is no Intro content, remove this entire section. If there is Intro content, all fields are recommended but not required. Remove any rows that do not have content.
 
-|                         |                                                      |
-| ----------------------- | ---------------------------------------------------- |
-| _Intro Video Link_      | https://generalassembly.wistia.com/medias/xnca3gllf5 |
-| _Intro Message_         | Lorem Ipsum...                                       |
+_Intro Video Link_:  https://generalassembly.wistia.com/medias/xnca3gllf5
+
+_Intro Message_:  Lorem Ipsum...                                       
 
 
 ##### Learning Objectives*
@@ -46,48 +48,34 @@ All required fields are marked with * .
 ##### Outro Screen
 > If there is no Outro content, remove this entire section. If there is Outro content, all fields are recommended but not required. Remove any rows that do not have content.
 
-|                         |                                                      |
-| ----------------------- | ---------------------------------------------------- |
-| _Outro Video Link_      | https://generalassembly.wistia.com/medias/xnca3gllf5 |
-| _Outro Message_         | Lorem Ipsum...                                       |
+_Outro Video Link_:  https://generalassembly.wistia.com/medias/xnca3gllf5
+
+_Outro Message_:  Lorem Ipsum...
 
 
 ##### References & Next Steps
 > If there are no References & Next Steps, remove this entire section.
 
-|                         |                                                      |
-| ----------------------- | ---------------------------------------------------- |
-| _Further Study_         | Lorem Ipsum...                                       |
+_Further Study_:  Lorem Ipsum...
 
 ---
 
 ### Slideshow
 > Text Only; slide title not required.
 
-_Slide Title_
+_Slide Title_:  Title
 
-Slide Title
-
-
-_Slide Content_
-
-Lorem ipsum...
+_Slide Content_:  Lorem ipsum...
 
 ---
 
 > Text and Image; slide title not required.
 
-_Slide Title_
+_Slide Title_:  Title
 
-Slide Title
-
-
-_Slide Content_
-
-Lorem ipsum...
+_Slide Content_:  Lorem ipsum...
 
 ![Image Title](assets/images/picture.jpg)
-
 
 More content lorem ipsum...
 
@@ -98,11 +86,9 @@ More content lorem ipsum...
 
 _Video Title_: Title
 
-
 _Video Link*_: https://generalassembly.wistia.com/medias/xnca3gllf5
 
-
-_Transcript_
+_Transcript_:
 
 Video transcript goes here
 

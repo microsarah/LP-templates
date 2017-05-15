@@ -5,20 +5,18 @@
 
 ### Lesson + Instructor Info
 
-|                         |                                           |
-| ----------------------- | ----------------------------------------- |
-| _Lesson Title_*         | Lesson 1: HTML Basics |
-| _Duration* (minutes)_   | 20 |
-| _Instructor Image_      | |
+_Lesson Title_*:   Lesson 1: HTML Basics
+
+_Duration* (minutes)_:  20
 
 
 ### SME Info
 
-|                         |                                         |
-| ----------------------- | --------------------------------------- |
-| _Portfolio/LinkedIn_    | http://saraheholden.com/ |
-| _Name_                  | Sarah Holden |
-| _Title_                 | Web Developer & Web Designer |
+_Portfolio/LinkedIn_:  http://saraheholden.com/
+
+_Name_:  Sarah Holden
+
+_Title_:  Web Developer & Web Designer
 
 
 ### Summary Messages
