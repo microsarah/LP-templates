@@ -12,7 +12,7 @@ _Lesson Title_*:   Name of Lesson
 
 _Duration* (minutes)_:  xx
 
-_Instructor Image_ :  ![Instructor Name](assets/images/picture.jpg)
+_Instructor Image_ :  ![Instructor Name](assets/unit-x/lesson-name/picture-name.jpg)
 
 
 
@@ -25,7 +25,7 @@ _Name_:  Jill Doe
 
 _Title_:  CEO
 
-_SME Image_:  ![SME Name](assets/images/picture.jpg)  
+_SME Image_:  ![SME Name](assets/unit-x/lesson-name/picture-name.jpg)  
 
 
 ### Summary Messages
@@ -33,7 +33,7 @@ _SME Image_:  ![SME Name](assets/images/picture.jpg)
 ##### Intro Screen
 > If there is no Intro content, remove this entire section. If there is Intro content, all fields are recommended but not required. Remove any rows that do not have content.
 
-_Intro Video Link_:  https://generalassembly.wistia.com/medias/xnca3gllf5
+_Intro Video Link_:  https://generalassembly.wistia.com/medias/#
 
 _Intro Message_:  Lorem Ipsum...                                       
 
@@ -48,7 +48,7 @@ _Intro Message_:  Lorem Ipsum...
 ##### Outro Screen
 > If there is no Outro content, remove this entire section. If there is Outro content, all fields are recommended but not required. Remove any rows that do not have content.
 
-_Outro Video Link_:  https://generalassembly.wistia.com/medias/xnca3gllf5
+_Outro Video Link_:  https://generalassembly.wistia.com/medias/#
 
 _Outro Message_:  Lorem Ipsum...
 
@@ -75,7 +75,7 @@ _Slide Title_:  Title
 
 _Slide Content_:  Lorem ipsum...
 
-![Image Title](assets/images/picture.jpg)
+![Image Title](assets/unit-x/lesson-name/picture-name.jpg)
 
 More content lorem ipsum...
 
@@ -86,7 +86,7 @@ More content lorem ipsum...
 
 _Video Title_: Title
 
-_Video Link*_: https://generalassembly.wistia.com/medias/xnca3gllf5
+_Video Link*_: https://generalassembly.wistia.com/medias/#
 
 _Transcript_:
 
