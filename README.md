@@ -1,10 +1,10 @@
 # LP Templates
 
----
+----------------------------------
 
 This repository provides templates and examples to ID's to create content for the Learning Platform. When complete, these templates are easily passed off to Data Entry to be translated into JSON files.
 
----
+----------------------------------
 
 Included in this repository/folder:
 

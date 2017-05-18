@@ -1,7 +1,7 @@
 ###### Course Name
 # Lesson Name
 
----
+----------------------------------
 
 All required fields are marked with * .
 
@@ -58,7 +58,7 @@ _Outro Message_:  Lorem Ipsum...
 
 _Further Study_:  Lorem Ipsum...
 
----
+----------------------------------
 
 ### Slideshow
 > Text Only; slide title not required.
@@ -67,7 +67,7 @@ _Slide Title_:  Title
 
 _Slide Content_:  Lorem ipsum...
 
----
+----------------------------------
 
 > Text and Image; slide title not required.
 
@@ -80,7 +80,7 @@ _Slide Content_:  Lorem ipsum...
 More content lorem ipsum...
 
 
----
+----------------------------------
 
 > Video; title not required.
 
@@ -92,7 +92,7 @@ _Transcript_:
 
 Video transcript goes here
 
----
+----------------------------------
 
 > Knowledge Check | Open-Ended; description not required.
 > Link to any images as noted in Text and Image Slide.
@@ -103,7 +103,7 @@ _Prompt*_:  Question goes here.
 
 _Explanation*_:  Response goes here.
 
----
+----------------------------------
 
 > Knowledge Check | Multiple Choice; description not required.
 > Link to any images as noted in Text and Image Slide.

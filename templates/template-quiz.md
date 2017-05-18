@@ -1,7 +1,7 @@
 ###### Course Name
 # Lesson Name
 
----
+----------------------------------
 
 All required fields are marked with * .
 
@@ -56,7 +56,7 @@ _Outro Message_:  Lorem Ipsum...
 
 _Further Study_:  Lorem Ipsum...
 
----
+----------------------------------
 
 ### Slideshow
 
@@ -69,7 +69,7 @@ _Prompt*_:  Question goes here.
 
 _Explanation*_:  Response goes here.
 
----
+----------------------------------
 
 > Knowledge Check | Multiple Choice; description not required.
 > Link to any images as noted in Text and Image Slide.

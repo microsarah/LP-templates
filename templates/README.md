@@ -1,6 +1,6 @@
 # LP Templates
 
----
+----------------------------------
 
 ## Overview
 Below are the Intro and Outro screens seen at the beginning and end of each lesson. It may be helpful to familiarize yourself with the contents of these screens before filling out the template.
